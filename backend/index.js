@@ -475,10 +475,12 @@ run().catch(console.dir);
 
 // Default route
 app.get('/', (req, res) => {
-  res.send('Hello World!');
+  res.send('BalBuddhiVidya is running!');
 });
 
 // Start the server
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
+
+
