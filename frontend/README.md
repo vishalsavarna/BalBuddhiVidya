@@ -1,1 +1,0 @@
-# BalBuddhiVidya Frontend
