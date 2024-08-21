@@ -1,4 +1,4 @@
-# yoga-master-client
+# BalBuddhiVidya-client
 ![](/src/assets/github-cover.png)
 
 
