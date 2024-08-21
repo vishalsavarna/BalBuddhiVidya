@@ -110,7 +110,7 @@ const DashboardLayout = () => {
                             }`}
                         onClick={() => setOpen(!open)}
                     >
-                        Yoga Master
+                        BalBuddhiVidya
                     </h1>
                 </div>
                 {/* Nav links  */}

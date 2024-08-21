@@ -12,7 +12,7 @@ import { Pagination, ThemeProvider, createTheme } from '@mui/material';
 import { ScaleLoader } from 'react-spinners';
 
 const SelectedClass = () => {
-    useTitle('Selected Class | Yoga Master Selected Class');
+    useTitle('Selected Class | BalBuddhiVidya Selected Class');
     const { currentUser } = useUser();
     const [loading, setLoading] = useState(true);
     const [classes, setClasses] = useState([]);
