@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import useAxiosFetch from "../../../hooks/useAxiosFetch";
 import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
-import img from '../../../assets/home/girl.jpg'
+import img from '../../../assets/home/man.jpg'
 
 const PopularInstructor = () => {
   const [instructors, setInstructors] = useState([]);

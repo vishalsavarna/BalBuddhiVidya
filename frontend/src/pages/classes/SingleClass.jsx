@@ -10,7 +10,7 @@ import useAxiosFetch from "../../hooks/useAxiosFetch";
 import useAxiosSecure from "../../hooks/useAxiosSecure";
 import { toast } from "react-toastify";
 import bannerImg1 from "../../assets/home/banner-1.jpg";
-import girImage from "../../assets/home/girl.jpg"
+import girImage from "../../assets/home/man.jpg"
 
 
 const SingleClass = () => {
