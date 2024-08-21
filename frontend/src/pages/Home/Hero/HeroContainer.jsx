@@ -26,7 +26,7 @@ const HeroContainer = () => {
                 className="mySwiper5"
                 loop={true}
                 autoplay={{
-                    delay: 3000, // Time in milliseconds between slides (3 seconds)
+                    delay: 4000, // Time in milliseconds between slides (3 seconds)
                     disableOnInteraction: false, // Allow autoplay to continue even if user interacts with the Swiper
                 }}
                 speed={800} // Transition speed in milliseconds (adjust as needed)
